@@ -5,5 +5,5 @@
         </h2>
     </x-slot>
 
-  {{-- <h1 style="text-align: center">Welcome to BTRH Engineer</h1> --}}
+ 
 </x-app-layout>
